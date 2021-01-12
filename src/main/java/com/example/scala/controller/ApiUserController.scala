@@ -1,5 +1,7 @@
-package com.example.scala
+package com.example.scala.controller
 
+import com.example.scala.model.User
+import com.example.scala.repo.UserRepository
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.web.bind.annotation.{GetMapping, PathVariable, RequestMapping, RestController}
 

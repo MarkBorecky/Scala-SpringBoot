@@ -1,4 +1,4 @@
-package com.example.scala
+package com.example.scala.config
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 
